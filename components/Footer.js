@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
           <div>
             <img
-              src="/ausiris-logo.png"
+              src="/assets/images/ausiris-logo.png"
               className="mr-5 h-6 sm:h-9"
               alt="logo"
             />
