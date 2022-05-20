@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="/assets/images/Ausiris_desktop.png">
+  <img width="460" height="300" src="/assets/images/Ausiris_desktop.png">
 </p>
