@@ -1,3 +1,3 @@
-<center>
-    <img src="assets/images/Ausiris_desktop.png">
-</center>
+<p align="center">
+  <img src="/assets/images/Ausiris_desktop.png">
+</p>
