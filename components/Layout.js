@@ -1,6 +1,6 @@
 import Navbar from './Nav'
 import Head from 'next/head'
-import Footer from './footer'
+import Footer from './Footer'
 
 export default function Layout({ children }) {
   return (
