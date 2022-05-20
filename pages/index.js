@@ -6,11 +6,10 @@ import Icon from '../components/Icon'
 import Hero from '../components/Hero'
 import BestSeller from '../components/BestSeller'
 import Line from '../components/Line'
-import Layout from '../components/Layout'
 
 const Home = () => {
   return (
-    <Layout>
+    <>
       <Hero />
       <ProductCrads />
       <ScrollProducts />
@@ -19,7 +18,7 @@ const Home = () => {
       <Banner />
       <Line />
       <Icon />
-    </Layout>
+    </>
   )
 }
 

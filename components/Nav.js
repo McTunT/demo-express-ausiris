@@ -33,12 +33,12 @@ export default function Navbar() {
                 <a href="/" className="flex  flex-shrink-0 items-center">
                   <img
                     className="block h-8 w-auto lg:hidden"
-                    src="/ausiris-logo.png"
+                    src="/assets/images/ausiris-logo.png"
                     alt="logo"
                   />
                   <img
                     className="hidden h-8 w-auto lg:block"
-                    src="/ausiris-logo.png"
+                    src="/assets/images/ausiris-logo.png"
                     alt="logo"
                   />
                 </a>
