@@ -1,3 +1,6 @@
 <p align="center">
   <img width="744" src="/assets/images/Ausiris_desktop.png">
 </p>
+
+![ausiris desktop](/assets/images/Ausiris_desktop.png)
+![ausiris desktop](assets/images/Ausiris_desktop.png)
